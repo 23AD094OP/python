@@ -18,6 +18,7 @@ print(type(d))
 print(type(e))
 print(type(f))
 print(type(g))
+# OUTPUT:-
 # 5
 # 2.5
 # 4000076576765165
